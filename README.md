@@ -55,6 +55,10 @@ streamlit run app.py
 - Add dark mode UI
 - Export detection results
 
+- ## 🎥 Demo Video
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/1FpNpo3234ijvGYgfngxuNcoli0wGJmJB/view?usp=drivesdk)
+
 ## 👩‍💻 Author
 
 Developed as part of AI/ML learning journey.
